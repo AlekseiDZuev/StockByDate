@@ -1,4 +1,4 @@
-brary("RMySQL")  #Библиотека для подключения к MariaDB
+library("RMySQL")  #Библиотека для подключения к MariaDB
 library("stringi") #В Rstudio Windows необходима конвертация в UTF-8
 library("emayili") #Библиотека для отправки почты
 library("magrittr")#Чтобы использовать оператор %>%
